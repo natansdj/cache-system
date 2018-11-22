@@ -1,13 +1,13 @@
 {
-    "name": "fabrizio-cafolla/cache-system",
+    "name": "natansdj/cache-system",
     "description": "Cache service for Lumen Framework.",
     "keywords": ["framework", "laravel", "lumen", "cache", "redis", "aws-elasticache"],
     "license": "MIT",
     "type": "lumen-package",
     "authors": [
         {
-            "name": "Fabrizio Cafolla",
-            "email": "info@fabriziocafolla.com"
+            "name": "Natan Sidjabat",
+            "email": "leavingtrailbehind@gmail.com"
         }
     ],
 

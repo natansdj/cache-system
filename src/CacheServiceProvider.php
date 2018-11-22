@@ -1,10 +1,4 @@
 <?php
-	/**
-	 * Created by PhpStorm.
-	 * User: fabrizio
-	 * Date: 09/10/18
-	 * Time: 14.15
-	 */
 
 	namespace CacheSystem;
 
